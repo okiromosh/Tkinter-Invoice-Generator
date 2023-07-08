@@ -1,0 +1,7 @@
+1. add thousands separator
+2. add try except blocks
+3. add the ability to remove/delete item entries
+4. add show invoice document command
+        '''
+        subprocess.call(["open", "-R", doc_name])
+        '''
